@@ -191,7 +191,8 @@ HEADER AND MENU STYLES
 ************/
 .header {
     background-color: #000;
-    background: url(http://mister-wolf-1-1.bangersandflash.net.s3-website-ap-southeast-2.amazonaws.com/images/header.jpg) no-repeat top center;
+    background: url(../assets/pexels-efdal-yildiz-917494.jpg) no-repeat top center;
+    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
